@@ -1,2 +1,2 @@
 # StockKeeper
-Advanced inventory manager for Android devices
+Advanced inventory manager for Android
